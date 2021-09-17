@@ -2,7 +2,7 @@
 
 ![screenshot](images/momentum.png)
 
-[Result](https://fantazer21.github.io/momentum/)
+[Result](https://rolling-scopes-school.github.io/fantazer21-JS2020Q3/momentum/)
 
 Momentum - аналог [одноимённого приложения](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=ru) интернет-магазина Chrome. Приложение показывает время и имя пользователя, его цель на текущий день. Фоновое изображение меняется в зависимости от времени суток. Для хранения данных приложение использует локальное хранилище - local storage.
 
